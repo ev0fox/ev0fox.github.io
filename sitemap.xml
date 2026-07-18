@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.evol.moe/tags/index.html</loc>
-    
-    <lastmod>2026-07-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.evol.moe/link/index.html</loc>
-    
-    <lastmod>2026-07-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.evol.moe/shuoshuo/index.html</loc>
     
     <lastmod>2026-07-18</lastmod>
@@ -29,7 +11,25 @@
   </url>
   
   <url>
-    <loc>https://blog.evol.moe/2026/07/653fd112a9d5.html</loc>
+    <loc>https://blog.evol.moe/tags/index.html</loc>
+    
+    <lastmod>2026-07-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.evol.moe/2026/07/6673d0862944.html</loc>
+    
+    <lastmod>2026-07-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.evol.moe/about/index.html</loc>
     
     <lastmod>2026-07-18</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://blog.evol.moe/about/index.html</loc>
+    <loc>https://blog.evol.moe/link/index.html</loc>
     
     <lastmod>2026-07-18</lastmod>
     
